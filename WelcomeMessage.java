@@ -1,5 +1,5 @@
 public class WelcomeMessage {
     public static void main(String[] args) {
-        System.out.println("This is working fine .Thank you.");
+        System.out.println("TI can now connect jenkins with gitlab which is very good.");
     }
 }
